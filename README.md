@@ -1,7 +1,7 @@
 # Awsome_CV_Paper_List
 
 ## 1. Depth and Surface normal
-基于学习方法的单帧图像深度图、表面法向量图预测综述 (https://zhuanlan.zhihu.com/p/68903112)
+基于学习方法的单帧图像深度图、表面法向量图预测综述 (https://zhuanlan.zhihu.com/p/68903112;https://zhuanlan.zhihu.com/p/68902039;https://zhuanlan.zhihu.com/p/62248924;https://zhuanlan.zhihu.com/p/68363491)
 
 (CVPR2019) Learning Single-Image Depth from Videos using Quality Assessment Networks [code](https://github.com/princeton-vl/YouTube3D) [project](http://www-personal.umich.edu/~wfchen/youtube3d/)
 
