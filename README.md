@@ -42,6 +42,7 @@ VCL page (https://github.com/VCL3D)
  
  ## Planar
  ScanNet[[github]](https://github.com/ScanNet/ScanNet):RGB-D sequence. Each sequence is stored under a directory with named scene<spaceId>_<scanId>, or scene%04d_%02d, where each space corresponds to a unique location (0-indexed). The raw data captured during scanning, camera poses and surface mesh reconstructions, and annotation metadata are all stored together for the given sequence. The directory has the following structure:
+ 
  <scanId>
 |-- <scanId>.sens
     RGB-D sensor stream containing color frames, depth frames, camera poses and other data
