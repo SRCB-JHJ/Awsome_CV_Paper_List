@@ -3,7 +3,7 @@
 ## 1. Depth and Surface normal
 基于学习方法的单帧图像深度图、表面法向量图预测综述 (https://zhuanlan.zhihu.com/p/68903112;https://zhuanlan.zhihu.com/p/68902039;https://zhuanlan.zhihu.com/p/62248924;https://zhuanlan.zhihu.com/p/68363491)
 
-(3DV2019)Spherical View Synthesis for Self-Supervised 360 Depth Estimation [code](https://github.com/VCL3D/SphericalViewSynthesis)
+(3DV2019)Spherical View Synthesis for Self-Supervised 360 Depth Estimation [[code]](https://github.com/VCL3D/SphericalViewSynthesis)
 
 (3DV2019)Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network⭐️
 
