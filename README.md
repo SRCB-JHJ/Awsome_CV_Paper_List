@@ -3,6 +3,8 @@
 ## 1. Depth and Surface normal
 基于学习方法的单帧图像深度图、表面法向量图预测综述 (https://zhuanlan.zhihu.com/p/68903112;https://zhuanlan.zhihu.com/p/68902039;https://zhuanlan.zhihu.com/p/62248924;https://zhuanlan.zhihu.com/p/68363491)
 
+(3DV2019)Spherical View Synthesis for Self-Supervised 360 Depth Estimation [code](https://github.com/VCL3D/SphericalViewSynthesis)
+
 (3DV2019)Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network⭐️
 
 (3DV2019)**360** Surface Regression with a Hyper-Sphere Loss [code](https://github.com/VCL3D/HyperSphereSurfaceRegression) [project](https://vcl3d.github.io/HyperSphereSurfaceRegression/)⭐️
@@ -27,6 +29,11 @@
  
  ## 2. Planar
  (CVPR2019 oral)PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [code](https://github.com/NVlabs/planercnn)🔥
+ 
+ 
+ # Dataset
+ ## Depth and Surface (segmentation)
+ 3D60:The 3D60 dataset is split in three parts, each one representing a different viewpoint (i.e. left/down/center, right and up), and each one containing all three available modalities (i.e. color image, depth and normal maps) [github](https://vcl3d.github.io/3D60/)[github](https://vcl.iti.gr/360-dataset/)[toolset](https://github.com/VCL3D/3D60)
  
  
  
