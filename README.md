@@ -3,9 +3,9 @@
 ## 1. Depth and Surface normal
 基于学习方法的单帧图像深度图、表面法向量图预测综述 (https://zhuanlan.zhihu.com/p/68903112;https://zhuanlan.zhihu.com/p/68902039;https://zhuanlan.zhihu.com/p/62248924;https://zhuanlan.zhihu.com/p/68363491)
 
-(3DV2019)Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network
+(3DV2019)Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network⭐️
 
-(3DV2019)360 Surface Regression with a Hyper-Sphere Loss [code](https://github.com/VCL3D/HyperSphereSurfaceRegression) [project](https://vcl3d.github.io/HyperSphereSurfaceRegression/)⭐️🔥
+(3DV2019)**360** Surface Regression with a Hyper-Sphere Loss [code](https://github.com/VCL3D/HyperSphereSurfaceRegression) [project](https://vcl3d.github.io/HyperSphereSurfaceRegression/)⭐️
 
 (CVPR2019) Learning Single-Image Depth from **Videos** using Quality Assessment Networks [code](https://github.com/princeton-vl/YouTube3D) [project](http://www-personal.umich.edu/~wfchen/youtube3d/)
 
@@ -26,7 +26,7 @@
  (ECCV2012)Indoor Segmentation and Support Inference from RGBD Images [GT generation code/project](https://cs.nyu.edu/~silberman/projects/indoor_scene_seg_sup.html)
  
  ## 2. Planar
- (CVPR2019)PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [code](https://github.com/NVlabs/planercnn)
+ (CVPR2019 oral)PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [code](https://github.com/NVlabs/planercnn)🔥
  
  
  
