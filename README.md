@@ -34,6 +34,7 @@ VCL page (https://github.com/VCL3D)
  
  ## 3. Layout
 (ECCV2014)PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding [[code]](https://github.com/yindaz/PanoBasic)
+(CVPR2016)Efficient 3D Room Shape Recovery From a Single Panorama [[code]](https://github.com/YANG-H/Panoramix/)
  
  
  # Dataset
